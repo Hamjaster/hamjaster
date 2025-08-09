@@ -7,7 +7,7 @@
 
 - 🤝 I’m open for projects **scalable and customized web applications**
 
-- 👨‍💻 All of my projects are available at [https://hamzashah.me](https://hamzashah.me)
+- 👨‍💻 All of my projects are available at my LinkedIn, You may also visit : [https://hamzashah.vercel.app](https://hamzashah.vercel.app)
 
 - 💬 Ask me about **Reactjs, Typescript, Tailwind, MERN**
 
