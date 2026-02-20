@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Freelancing **with clients/companies across the globe**
 
-- 🌱 I’m currently learning **Github Actions and Deployment**
+- 🌱 I’m currently learning **Agentic AI and RAG**
 
 - 🤝 I’m open for projects **scalable and customized web applications**
 
