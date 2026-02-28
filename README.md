@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Shah</h1>
 <h3 align="center">A Full stack web engineer from Pakistan</h3>
 
-- 🔭 I’m currently Freelancing **with clients/companies across the globe**
+- 🔭 I’m currently Freelancing **with clients/companies across the globe** and working with a service-based startup
 
 - 🌱 I’m currently learning **Scaleable RAG and Agentic AI systems**
 
-- 🤝 I’m open for projects **scalable and customized web applications**
-
 - 👨‍💻 All of my projects are available at my LinkedIn, You may also visit : [https://hamza-shah.dev](https://hamza-shah.dev)
-
-- 💬 Ask me about **Reactjs, Typescript, Tailwind, MERN**
 
 - 📫 How to reach me **hamzashah.dev@gmail.com**
 
