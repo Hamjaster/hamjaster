@@ -19,7 +19,7 @@ Part-time at [DevNauts](https://devnauts.io) · Independent Freelance · Solving
 - Implemented a centre-indexed bar chart in Chart.js 2 for a US client. Zero at centre, bars going both directions, stable at scale. No docs for it. Went through the library source and built a custom plugin.
 - Wrestled LangGraph pipeline latency down by parallelising memory fetch and intent classification across an 11-node agent graph.
 - Built a full PDF-to-searchable-knowledge pipeline — Docling, AI-enriched chunking, hybrid BM25 + vector search in Qdrant — because off-the-shelf solutions couldn't handle math-heavy PDFs the way I needed.
-- This was pre-GPT. A client needed Easebuzz integrated into his NGO app, which has weak documentation and no tutorials. I read through the raw API references, contacted the Easebuzz team directly for clarification, and reverse-engineered the auth and webhook flow. Got it working. The client shipped.
+- This was pre-GPT. A client needed Easebuzz integrated into his NGO app, which had weak documentation and no tutorials at that time. I read through the raw API references, contacted the Easebuzz team directly for clarification, and reverse-engineered the auth and webhook flow. Got it working. The client shipped.
  
 ---
  
