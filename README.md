@@ -1,20 +1,33 @@
-<h1 align="center">Hi 👋, I'm Hamza Shah</h1>
-<h3 align="center">A Full stack web engineer from Pakistan</h3>
+# Hamza Shah
 
-- 🔭 I’m currently Freelancing **with clients/companies across the globe** and working with a service-based startup
+Full-Stack AI Engineer  
+Part-time at [DevNauts](https://devnauts.io) · Independent Freelance · Solving very specific problems on web
 
-- 🌱 I’m currently learning **Scaleable RAG and Agentic AI systems**
+---
 
-- 👨‍💻 All of my projects are available at my LinkedIn, You may also visit : [https://hamza-shah.dev](https://hamza-shah.dev)
+## Current Focus
 
-- 📫 How to reach me **hamzashah.dev@gmail.com**
+- Building production RAG and solving specific problems
+- Full-stack work in Next.js + TypeScript for product companies and agencies
+- Open source contributions in TypeScript/Next.js codebases 
 
+ 
+**Some things I've dealt with building real software along my journey:**
+ 
+- Integrated Easebuzz payments for a client before any tutorials or proper docs existed. Read raw API references, contacted their team directly, figured it out from scratch.
+- Built JS normaliser scripts to parse messy Equifax and TransUnion credit reports — inconsistent structure, shifting field names — and map them to a clean internal schema that a live dashboard could actually use.
+- Implemented a centre-indexed bar chart in Chart.js 2 for a US client. Zero at centre, bars going both directions, stable at scale. No docs for it. Went through the library source and built a custom plugin.
+- Wrestled LangGraph pipeline latency down by parallelising memory fetch and intent classification across an 11-node agent graph.
+- Built a full PDF-to-searchable-knowledge pipeline — Docling, AI-enriched chunking, hybrid BM25 + vector search in Qdrant — because off-the-shelf solutions couldn't handle math-heavy PDFs the way I needed.
+- This was pre-GPT. A client needed Easebuzz integrated into his NGO app, which has weak documentation and no tutorials. I read through the raw API references, contacted the Easebuzz team directly for clarification, and reverse-engineered the auth and webhook flow. Got it working. The client shipped.
+ 
+---
+ 
+**Stack:** TypeScript, Next.js, React, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, Docker, LangGraph, Qdrant, Mem0, 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-hamzashah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-hamzashah/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61554638767874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61554638767874" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+ 
