@@ -8,7 +8,7 @@ Part-time at [DevNauts](https://devnauts.io) · Independent Freelance · Solving
 ## Current Focus
 
 - Building production RAG and solving specific problems
-- Full-stack work in Next.js + TypeScript for product companies and agencies
+- Full-stack work in Next.js + TypeScript for companies and agencies
 - Open source contributions in TypeScript/Next.js codebases 
 
  
