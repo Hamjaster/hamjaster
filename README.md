@@ -1,8 +1,6 @@
 # Hamza Shah
 
-Full-Stack AI Engineer  
-Part-time at [DevNauts](https://devnauts.io) · Independent Freelance · Solving very specific problems on web
-
+APM at @Vyro
 ---
 
 ## Current Focus
