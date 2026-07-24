@@ -1,11 +1,9 @@
 # Hamza Shah
 ---
 
-## Current Focus
+## Current Focus :
 
-- Building production RAG and solving specific problems
-- Full-stack work in Next.js + TypeScript for companies and agencies
-- Open source contributions in TypeScript/Next.js codebases 
+- I pivoted to product. Its good when you just learn without doing it.
 
  
 **Some things I've dealt with building real software along my journey:**
