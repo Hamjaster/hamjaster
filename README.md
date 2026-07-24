@@ -1,6 +1,4 @@
 # Hamza Shah
-
-APM at @Vyro
 ---
 
 ## Current Focus
