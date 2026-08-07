@@ -1,9 +1,9 @@
 # Hamza Shah
----
+
 
 ## Current Focus :
 
-- I pivoted to product. Its good when you just learn without doing it.
+- I pivoted to product, Its good leading good stuff ideation to production.
 
  
 **Some things I've dealt with building real software along my journey:**
