@@ -3,8 +3,8 @@
 
 ## Current Focus :
 
-- I pivoted to product, Its good leading good stuff ideation to production.
-
+- I pivoted to product, love leading good things from ideation to production.
+- working with cloud / hermes / ai agents
  
 **Some things I've dealt with building real software along my journey:**
  
